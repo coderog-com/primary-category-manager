@@ -3,7 +3,7 @@
 Plugin Name: Primary Category Manager
 Description: Display and change the primary category on the WordPress post list.
 Version: 1.0
-Author: Your Name
+Author: CodeROG
 */
 
 if (!defined('ABSPATH')) {
