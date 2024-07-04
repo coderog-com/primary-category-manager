@@ -1,0 +1,54 @@
+.primary-category-dropdown-div {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.primary-category-name-div {
+    display: flex;   
+}
+
+.primary-category-name-div .pcm-brand-icon {
+    margin-right: 5px;
+}
+
+.primary-category-name-div-yoast {
+    margin-top: 5px;
+}
+
+.primary-category-dropdown-loading-img {
+    margin-left: 10px;   
+    display: none;
+}
+
+.primary-category-dropdown-status-img {
+    margin-left: 10px;   
+}
+
+.primary-category-dropdown-status-img.dashicons.dashicons-dismiss {
+    color: red;
+}
+
+.primary-category-dropdown-status-img.dashicons.dashicons-saved {
+    background: lightgreen;
+}
+
+.status-icon-loading {
+    content: url('https://coderog.com/blog/wp-includes/images/spinner.gif');
+}
+
+.status-icon-saved {
+    content: "\f15e";
+}
+
+.status-icon-error {
+    content: "\f223";
+}
+
+.service-bypassed {
+    opacity: 0.5;
+}
+
+.pcm-yoast-icon {
+    width: 20px;
+}
